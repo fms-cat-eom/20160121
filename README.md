@@ -6,7 +6,7 @@
 
 GLSL Glitch, Raymarcher, Metaball  
 
-[Everyday One Motion](http://motions.work/motions/71)  
+[Everyday One Motion](http://motions.work/motion/71)  
 [Demo Page](http://fms-cat-eom.github.io/20160121/)  
 
 ## GLSL Glitch
