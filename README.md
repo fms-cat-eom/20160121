@@ -1,10 +1,13 @@
-# Everyday One Motion - 20160121 "Artificial Glitch"
+# Everyday One Motion - 20160121  
 
-![](20160121.gif)
+"Artificial Glitch"  
 
-GLSL Glitch, Raymarcher, Metaball
+![](20160121.gif)  
 
-[Demo Page](http://fms-cat.github.io/eom_20160121/)
+GLSL Glitch, Raymarcher, Metaball  
+
+[Everyday One Motion](http://motions.work/motions/71)  
+[Demo Page](http://fms-cat.github.io/eom_20160121/)  
 
 ## GLSL Glitch
 
